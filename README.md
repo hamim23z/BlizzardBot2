@@ -1,1 +1,1 @@
-An old bot that I used for my Discord Server. I discontinued this bot and began using BlizzardBot1.
+An old bot that I used for my Discord Server. I discontinued this bot and began using BlizzardBot1. The link for the code regarding BlizzardBot1 can be found at https://github.com/hamim23z/BlizzardBot1
